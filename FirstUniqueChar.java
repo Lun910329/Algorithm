@@ -1,4 +1,4 @@
-package goldman;
+
 
 public class FirstUniqueChar {
     public String firstUnique(String s){

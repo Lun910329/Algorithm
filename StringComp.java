@@ -1,4 +1,4 @@
-package goldman;
+
 
 public class StringComp {
     public String compression(String str) {

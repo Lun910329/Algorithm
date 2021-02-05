@@ -1,4 +1,4 @@
-package goldman;
+
 
 public class DotProduct {
     public int dotprod(int[] a, int[] b){

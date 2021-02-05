@@ -1,4 +1,4 @@
-package goldman;
+
 
 public class Climbing_Stairs {
     public int climbStairs(int n) {

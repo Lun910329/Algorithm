@@ -1,4 +1,4 @@
-package goldman;
+
 
 public class ReverseString {
 	public String reverse(String s) {
